@@ -1,0 +1,47 @@
+body{
+    background-color: red; color: white;
+    font-family: 'Poppins', sans-serif;
+    background-size: 60;
+}
+h1{
+    font-size: 75px;
+    font-weight: 550;
+    text-align: center;
+}
+.h1-subtitle{
+    text-align: center;
+    color: rgb(red, green, blue);
+}
+.top-image{
+    position: absolute;
+    top: 280px;
+    left: 180px;
+
+}
+.before-list{
+    padding-right: 300px;
+    padding-left: 300px;
+    font-size: 20px; 
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.quote-para{
+    padding-right: 300px;
+    padding-left: 290px;
+    font-style: italic;
+    font-size: 20px;
+}
+.wiki-para{
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}   
+.Henrietta{
+    text-align: center;
+    color: rgb(red, green, blue);
+} 
+.container{
+    background-image: url("keyboard.jpg");
+    background-size:cover ;
+}
